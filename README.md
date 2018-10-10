@@ -8,7 +8,7 @@
 4. Finally, with the use of variable flag, and rand(); we are able to accomplish the task;
 5. We use timefunc to make it refresh 25 times per second;
 
-## WAYS TO PROVE
+## WAYS TO IMPROVE
   
 1. We should try to use STL Vector to make it run better;
 
